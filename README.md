@@ -23,6 +23,8 @@ iProtDNA-SMOTE is primarily dependent on a large-scale pre-trained protein langu
 ## Files and folders description
 ### DNAPred_Dataset
 This folder contains the raw data. For each protein id inside (which may not be the PDB id), there are two files that store the sequence and label information for that protein. Among them, label information is a data label indicating binding or non-binding sites.
+### evaluate & train
+These folders contain pre-training weights.
 
 Note: if you wanna find the original data in PDB format, please kindly refer to the following 3 papers: DBPred, GraphBind, and GraphSite.
 
