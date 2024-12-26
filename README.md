@@ -1,5 +1,5 @@
-# iProtDNA-SMOTE
-Pytorch implementation of paper 'iProtDNA-SMOTE: Enhancing Protein-DNA Binding Site Prediction through Imbalanced Graph Neural Networks' 
+# GCLKSiter
+Pytorch implementation of paper 'GCLKSiter: ' 
 
 ## Dependencies
 - torch=2.0.0+cu118
