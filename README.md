@@ -1,5 +1,5 @@
-# GCLKSiter
-Pytorch implementation of paper 'GCLKSiter: ' 
+# GCLPAN-Siter
+Pytorch implementation of paper 'GCLPAN-Siter: ' 
 
 ## Dependencies
 - torch=2.0.0+cu118
